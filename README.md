@@ -9,7 +9,7 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - Computer Systems--A Programmer's Perspective, Chinese verion 2nd. [My notes repo](https://github.com/yfnick2014/csapp)
   - Structure and Interpretation of Computer Programs, Chinese version 2nd. [My notes repo](https://github.com/yfnick2014/sicp)
 - Linux Development Series
-  - Linux System Development, 2nd. [My notes repo](https://github.com/yfnick2014/lsp), finished at 2015-04-25
+  - Linux System Development, 2nd. [My notes repo](https://github.com/yfnick2014/lsp), **finished at 2015-04-25**
   - Linux Kernel Development, 3rd. [My notes repo](https://github.com/yfnick2014/lkd)
 - C++ Programming Language Series
   - The C++ Programming Language, 4th. [My notes repo](https://github.com/yfnick2014/cpppl)
