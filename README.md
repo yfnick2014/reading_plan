@@ -31,6 +31,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - UNIX Network Programming, Volume 1
   - UNIX Network Programming, Volume 2
   - Effective TCP/IP Programming.
+  - C++ Network Programming, Volume 1, Chinese version
+  - C++ Network Programming, Volume 2, Chinese version
 - TCP/IP Series
   - TCP/IP Illustrated, Volume 1
   - TCP/IP Illustrated, Volume 2
