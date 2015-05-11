@@ -18,6 +18,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - Understanding the Linux Kernel, 3rd.
   - Understanding Linux Virtual Memory Manager.
   - The Linux Networking Architecture.
+- C Programming Language Series
+  - Pointers on C.
 - C++ Programming Language Series
   - The C++ Programming Language, 4th.
   - Effective C++, Chinese version.
