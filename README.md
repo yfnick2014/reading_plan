@@ -40,6 +40,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - The Art of Multiprocessor Programming.
   - C++ Concurrency in Action.
   - Java Concurrency in Practice.
+- Others
+  - The Practice of Programming.
 
 ## Reading Schedule
 - 2015 reading plan
