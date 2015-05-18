@@ -42,6 +42,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - The Art of Multiprocessor Programming.
   - C++ Concurrency in Action.
   - Java Concurrency in Practice.
+- Tuning Series
+  - Practical load balancing, Ride the performance tiger, Chinese version
 - Others
   - The Practice of Programming.
 
