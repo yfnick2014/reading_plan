@@ -48,5 +48,5 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - The Practice of Programming.
 
 ## Reading Schedule
-- 2015 reading plan
+- **2015 reading plan**
   - Apr 2015: Linux System Development, 2nd. [My notes repo](https://github.com/yfnick2014/lsp), **finished at 2015-04-25**
