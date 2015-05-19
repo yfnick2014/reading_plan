@@ -5,46 +5,46 @@ Making notes is a good habit for reading, summing up the most important ideas an
 
 ## Book List
 
-- Basic Computer Concepts Series
+- **Basic Computer Concepts Series**
   - Computer Systems--A Programmer's Perspective, Chinese verion 2nd.
   - Structure and Interpretation of Computer Programs, Chinese version 2nd.
-- Operating System Concepts Series
+- **Operating System Concepts Series**
   - Operating System Concepts, 9nd.
   - UNIX Systems for Modern Architectures.
-- Linux Development/Kernel Series
+- **Linux Development/Kernel Series**
   - Advanced Programming in the UNIX Environment.
-  - **Linux System Development, 2nd.**
+  - Linux System Development, 2nd.
   - Linux Kernel Development, 3rd.
   - Understanding the Linux Kernel, 3rd.
   - Understanding Linux Virtual Memory Manager.
   - The Linux Networking Architecture.
-- C Programming Language Series
+- **C Programming Language Series**
   - Pointers on C.
-- C++ Programming Language Series
+- **C++ Programming Language Series**
   - The C++ Programming Language, 4th.
   - Effective C++, Chinese version.
   - Effective STL, Chinese version.
   - The Design and Evolution of C++.
   - Effective Modern C++.
   - Inside the C++ Object Model.
-- Functional Programming Language Series
+- **Functional Programming Language Series**
   - Real World Haskell.
-- Network Programming Series
+- **Network Programming Series**
   - UNIX Network Programming, Volume 1
   - UNIX Network Programming, Volume 2
   - Effective TCP/IP Programming.
   - C++ Network Programming, Volume 1, Chinese version
   - C++ Network Programming, Volume 2, Chinese version
-- TCP/IP Series
+- **TCP/IP Series**
   - TCP/IP Illustrated, Volume 1
   - TCP/IP Illustrated, Volume 2
-- Concurrent Programming
+- **Concurrent Programming**
   - The Art of Multiprocessor Programming.
   - C++ Concurrency in Action.
   - Java Concurrency in Practice.
-- Tuning Series
+- **Tuning Series**
   - Practical load balancing, Ride the performance tiger, Chinese version
-- Others
+- **Others**
   - The Practice of Programming.
 
 ## Reading Schedule
