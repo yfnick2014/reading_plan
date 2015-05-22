@@ -12,7 +12,7 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - Operating System Concepts, 9nd.
   - UNIX Systems for Modern Architectures.
 - **Linux Development/Kernel Series**
-  - Advanced Programming in the UNIX Environment.
+  - ~~Advanced Programming in the UNIX Environment~~.
   - ~~Linux System Development, 2nd.~~
   - Linux Kernel Development, 3rd.
   - Understanding the Linux Kernel, 3rd.
