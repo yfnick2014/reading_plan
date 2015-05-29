@@ -50,3 +50,6 @@ Making notes is a good habit for reading, summing up the most important ideas an
 ## Reading Schedule
 - **2015 reading plan**
   - Apr 2015: Linux System Development, 2nd. [My notes repo](https://github.com/yfnick2014/lsp), **finished at 2015-04-25**
+
+## More
+[developer readling list recommended by lucida](drlrbl.md)
