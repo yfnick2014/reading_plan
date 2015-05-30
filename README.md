@@ -52,4 +52,4 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - Apr 2015: Linux System Development, 2nd. [My notes repo](https://github.com/yfnick2014/lsp), **finished at 2015-04-25**
 
 ## More
-- [developer readling list](drlrbl.md)    by [lucida](http://zh.lucida.me/blog/developer-reading-list/)
+- [developer reading list](drlrbl.md)    by [lucida](http://zh.lucida.me/blog/developer-reading-list/)
