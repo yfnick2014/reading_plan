@@ -7,6 +7,8 @@
 - [前言](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#前言)
 - [标准](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#标准)
 - [程序员必读书籍](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#程序员必读书籍)
+  - [入门书籍](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#入门书籍)
+  - [必读书籍](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#必读书籍)
 - [程序设计](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#程序设计-2)
 - [软件开发](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#软件开发-2)
 - [个人成长](https://github.com/yfnick2014/reading_plan/blob/master/drlrbl.md#个人成长-2)
