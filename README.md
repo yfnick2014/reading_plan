@@ -49,7 +49,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
 
 ## Reading Schedule
 - **2015 reading plan**
-  - Apr 2015: Linux System Development, 2nd. [My notes repo](https://github.com/yfnick2014/lsp), **finished at 2015-04-25**
+  - Apr 2015: [Linux System Development, 2nd](https://github.com/yfnick2014/lsp).
+  - May 2015: Advanced Programming in the UNIX Environment, [Practical load balancing, Ride the performance tiger, Chinese version](https://github.com/yfnick2014/plb).
 
 ## More
 - [developer reading list](drlrbl.md)    by [lucida](http://zh.lucida.me/blog/developer-reading-list/)
