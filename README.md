@@ -42,6 +42,12 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - The Art of Multiprocessor Programming.
   - C++ Concurrency in Action.
   - Java Concurrency in Practice.
+- **Database**
+  - Relational Database Index Design and the Optimizers
+- **MySQL**
+  - High Performance MySQL, 3rd
+  - MySQL性能调优与架构设计
+  - Expert MySQL, 2nd
 - **Tuning Series**
   - ~~Practical load balancing, Ride the performance tiger, Chinese version~~
 - **Others**
