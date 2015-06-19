@@ -51,7 +51,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
 - **Tuning Series**
   - ~~Practical load balancing, Ride the performance tiger, Chinese version~~
 - **Others**
-  - The Practice of Programming.
+  - The Practice of Programming
+  - 程序员的自我修养——链接、装载与库
 
 ## Reading Schedule
 - **2015 reading plan**
