@@ -48,6 +48,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - High Performance MySQL, 3rd
   - MySQL性能调优与架构设计
   - Expert MySQL, 2nd
+  - MySQL技术内幕：InnoDB存储引擎
+  - MySQL内核：InnoDB存储引擎
 - **Tuning Series**
   - ~~Practical load balancing, Ride the performance tiger, Chinese version~~
 - **Others**
