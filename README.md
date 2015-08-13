@@ -12,8 +12,8 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - Operating System Concepts, 9nd.
   - UNIX Systems for Modern Architectures.
 - **Linux Development/Kernel Series**
-  - ~~Advanced Programming in the UNIX Environment~~.
-  - ~~Linux System Development, 2nd.~~
+  - Advanced Programming in the UNIX Environment.
+  - Linux System Development, 2nd.
   - Linux Kernel Development, 3rd.
   - Understanding the Linux Kernel, 3rd.
   - Understanding Linux Virtual Memory Manager.
@@ -51,15 +51,10 @@ Making notes is a good habit for reading, summing up the most important ideas an
   - MySQL技术内幕：InnoDB存储引擎
   - MySQL内核：InnoDB存储引擎
 - **Tuning Series**
-  - ~~Practical load balancing, Ride the performance tiger, Chinese version~~
+  - Practical load balancing, Ride the performance tiger, Chinese version
 - **Others**
   - The Practice of Programming
   - 程序员的自我修养——链接、装载与库
-
-## Reading Schedule
-- **2015 reading plan**
-  - Apr 2015: [Linux System Development, 2nd](https://github.com/yfnick2014/lsp).
-  - May 2015: Advanced Programming in the UNIX Environment, [Practical load balancing, Ride the performance tiger, Chinese version](https://github.com/yfnick2014/plb).
 
 ## More
 - [developer reading list](drlrbl.md)    by [lucida](http://zh.lucida.me/blog/developer-reading-list/)
